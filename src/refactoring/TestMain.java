@@ -34,7 +34,7 @@ public class TestMain {
 		c2.addRental(r6);
 		
 		System.out.println(c1.statement());
-		System.out.println("-----------------");
+		System.out.println("--------구분선--------");
 		System.out.println(c2.statement());
 	}
 
