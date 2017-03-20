@@ -507,7 +507,7 @@
 <XPD:ATTR name="#Connections" type="integer">2</XPD:ATTR>
 <XPD:OBJ name="Connections[0]" type="UMLAssociationEnd" guid="VgNqg8qipki6Ys2yjOJ1dQAA">
 <XPD:ATTR name="IsNavigable" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Aggregation" type="UMLAggregationKind">akAggregate</XPD:ATTR>
+<XPD:ATTR name="Aggregation" type="UMLAggregationKind">akComposite</XPD:ATTR>
 <XPD:ATTR name="Multiplicity" type="string">0..1</XPD:ATTR>
 <XPD:REF name="Association">PNXQ01tUOE6lhnUoT2JvPAAA</XPD:REF>
 <XPD:REF name="Participant">2AHXzJtsKUKCiRSHj7+0YwAA</XPD:REF>
